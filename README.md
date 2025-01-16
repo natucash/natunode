@@ -13,7 +13,7 @@
 
 
   <a href="https://t.me/q1vuk" target="_blank">
-    <img alt="Telegram" src="https://badgen.net/badge/icon/niobiocash?icon=telegram&label=Telegram"/>
+    <img alt="Telegram" src="https://badgen.net/badge/icon/q1vuk?icon=telegram&label=Telegram"/>
   </a>
 
 </p>
@@ -29,7 +29,7 @@ A quick introduction of the minimal setup you need to get a running node.
 
 *Prerequisites:*
 - configuration file for a needed network `nbrc.conf`
-- `mdm-all*.jar` file from [releases](https://github.com/niobiocash/nbrcnode/releases) 
+- `nbrc-all*.jar` file from [releases](https://github.com/niobiocash/nbrcnode/releases) 
 
 Linux systems:
 ```bash
