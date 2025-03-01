@@ -29,7 +29,7 @@ A quick introduction of the minimal setup you need to get a running node.
 
 *Prerequisites:*
 - configuration file for a needed network `natu.conf`
-- `nbrc-all*.jar` file from [releases](https://github.com/natucash/natunode/releases) 
+- `natu-all*.jar` file from [releases](https://github.com/natucash/natunode/releases) 
 
 Linux systems:
 ```bash
